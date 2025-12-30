@@ -1,6 +1,6 @@
 # A General Multi-Stratum Model for a Nanofunctionalized Releasing Capsule  
 **Code Repository for the Paper:**  
-[![DOI](https://img.shields.io/badge/DOI-10.3934/mbe.2025xxx-blue)](https://doi.org/10.3934/mbe.2025xxx)
+[![DOI](https://img.shields.io/badge/DOI-10.3934/mbe.2026001-blue)](https://doi.org/10.3934/mbe.2026001)
 [![Arxiv](http://img.shields.io/badge/arXiv-2506.17078-b31a1a)](https://arxiv.org/abs/2506.17078)  
 *E. Onofri, E. Cristiani, A. Martelli, P. Gentile, J. Girón Hernández, G. Pontrelli*  
 **"A general multi-stratum model for a nanofunctionalized releasing capsule: An experiment-driven computational study"**  
