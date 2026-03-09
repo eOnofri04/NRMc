@@ -4,7 +4,7 @@
 [![Arxiv](http://img.shields.io/badge/arXiv-2506.17078-b31a1a)](https://arxiv.org/abs/2506.17078)  
 *E. Onofri, E. Cristiani, A. Martelli, P. Gentile, J. Girón Hernández, G. Pontrelli*  
 **"A general multi-stratum model for a nanofunctionalized releasing capsule: An experiment-driven computational study"**  
-*Mathematical Biosciences and Engineering (MBE), 2025*  
+*Mathematical Biosciences and Engineering (MBE), 2026*  
 
 ---
 
@@ -102,8 +102,8 @@ If you use this code or any part of it in your work, please cite:
 ```
 E. Onofri, E. Cristiani, A. Martelli, P. Gentile, J. Girón Hernández, G. Pontrelli,
 A general multi-stratum model for a nanofunctionalized releasing capsule: An experiment-driven computational study,
-Mathematical Biosciences and Engineering (MBE), 2025.
-DOI: 10.3934/mbe.2025xxx
+Mathematical Biosciences and Engineering, 2026, 23(1): 1-21.
+DOI: 10.3934/mbe.2026001
 ```
 
 ---
